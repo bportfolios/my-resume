@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Bipika Amatya",
+    "occupation": "Software Developer",
+    "description": "Java Software Developer by day and Web Developer and learner by night.",
+    "image": "bipika.jpg",
+    "bio": "My name is Bipika Amatya, I'm a Software Developer. Currently I'm looking for a new opportunity to develop my skills in web programming.",
+    "contactmessage": "Get in touch with me.",
+    "email": "krispyqueen24@gmail.com",
+    "phone": "+358 465484366",
+    "address": {
+      "street": "Kajaanintie 38",
+      "city": "Oulu",
+      "state": "Finland",
+      "zip": "90130"
+    },
+    "website": "https://the-courageous.blogspot.com/",
+    "resumedownload": "https://drive.google.com/file/d/1Bg4i1ujCXG4U6iN4HQEFKUFYUii8AtSN/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bpka07/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/bipika-amatya/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/bportfolios",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am extremely motivated to constantly develop my skills and grow professionally.",
+    "education": [
+      {
+        "school": "University of Jyvaskyla",
+        "degree": "Masters in Cognitive Computing and Collective Intelligence",
+        "graduated": "June 2020",
+        "description": "Graduated"
+      },
+      {
+        "school": "Tribhuwan University",
+        "degree": "Bachelor in Computer Engineering",
+        "graduated": "July 2014",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Teleste Information Solutions",
+        "title": "Software Developer",
+        "years": "Nov 2019 - Nov 2020",
+        "description": "Application development for railway platform.",
+        "tech": {
+          "java": "java"
+        }
+      },
+      {
+        "company": "Verscend Technologies Pvt. Ltd. (now Cotiviti Nepal Pvt. Ltd.)",
+        "title": "Software Engineer",
+        "years": "Aug 2014 - July 2018",
+        "description": "Data analysis and quality check.",
+        "tech": {
+          "java": "java"
+        }
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "100%"
+      },
+      {
+        "name": "HTML & CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Tweet me",
+        "category": "Twitter Clone built with Django Framework (PostgreSQL, Python)",
+        "image": "tweetme.jpeg",
+        "url": "https://github.com/bipika/TweetMe"
+      },
+      {
+        "title": "Online shop",
+        "category": "Online shopping website built with ReactJS",
+        "image": "onlineshop.png",
+        "url": "https://github.com/bportfolios/Online-Shop"
+      },
+      {
+        "title": "Video meeting app",
+        "category": "Video meeting application built with ReactJS and NodeJS",
+        "image": "video-chat-app.png",
+        "url": "https://github.com/bportfolios/Video-Call-and-Chat"
+      },
+      {
+        "title": "Dating app",
+        "category": "Dating application built with ReactJS, NodeJS and MongoDB",
+        "image": "dating-app.png",
+        "url": "https://github.com/bportfolios/Dating-App"
+      },
+      {
+        "title": "My Resume",
+        "category": "My resume built with ReactJS",
+        "image": "resume.png",
+        "url": "https://bipika-amatya.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Bipika is very much goal oriented and she puts more effort for the out come.",
+        "user": "Saroj Maharjan"
+      }
+    ]
+  }
+}
