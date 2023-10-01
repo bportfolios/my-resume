@@ -2,17 +2,13 @@
   "main": {
     "name": "Bipika Amatya",
     "occupation": "Software Developer",
-    "description": "Java Software Developer by day and Web Developer and learner by night.",
+    "description": "Web Software Developer by day and learner by night.",
     "image": "bipika.jpg",
     "bio": "My name is Bipika Amatya, I'm a Software Developer. Currently I'm looking for a new opportunity to develop my skills in web programming.",
     "contactmessage": "Get in touch with me.",
     "email": "krispyqueen24@gmail.com",
-    "phone": "+358 465484366",
     "address": {
-      "street": "Kajaanintie 38",
-      "city": "Oulu",
-      "state": "Finland",
-      "zip": "90130"
+      "state": "Finland"
     },
     "website": "https://the-courageous.blogspot.com/",
     "resumedownload": "https://drive.google.com/file/d/1Bg4i1ujCXG4U6iN4HQEFKUFYUii8AtSN/view?usp=sharing",
