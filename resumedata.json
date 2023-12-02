@@ -31,8 +31,14 @@
     ]
   },
   "resume": {
-    "skillmessage": "I am extremely motivated to constantly develop my skills and grow professionally.",
+    "skillmessage": "I am a highly motivated individual who likes to constantly grow and develop skills professionally.",
     "education": [
+      {
+        "school": "Jyvaskyla University of Applied Sciences",
+        "degree": "Masters in Fullstack Software Development",
+        "graduated": "June 2025",
+        "description": "Study Ongoing"
+      },
       {
         "school": "University of Jyvaskyla",
         "degree": "Masters in Cognitive Computing and Collective Intelligence",
@@ -47,6 +53,18 @@
       }
     ],
     "work": [
+      {
+        "company": "Bithouse Oy",
+        "title": "Software Developer",
+        "years": "Oct 2020 - Present",
+        "description": "Web software development for railway platform.",
+        "tech": {
+          "python": "Python, FastAPI, Django",
+          "javascript": "Javascript, Vue, Vuex, React, Redux"
+          "database": "Postgres, Timescaledb, Redis"
+          "golang": "Go, Gin"
+        }
+      },
       {
         "company": "Teleste Information Solutions",
         "title": "Software Developer",
@@ -63,17 +81,46 @@
         "description": "Data analysis and quality check.",
         "tech": {
           "java": "java"
+          "db": "oracle db"
         }
       }
     ],
     "skills": [
       {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "VueJS",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      }
+      {
         "name": "SQL",
         "level": "100%"
       },
       {
+        "name": "NoSQL",
+        "level": "60%"
+      },
+      {
         "name": "HTML & CSS",
         "level": "100%"
+      },
+      {
+        "name": "Golang",
+        "level": "80%"
       },
       {
         "name": "Java",
@@ -87,26 +134,16 @@
         "name": "C#",
         "level": "60%"
       },
-      {
-        "name": "Python",
-        "level": "60%"
-      },
-      {
-        "name": "ReactJS",
-        "level": "60%"
-      },
-      {
-        "name": "NodeJS",
-        "level": "60%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "60%"
-      }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Dentist Reservation Backend",
+        "category": "Backend Dentist reservation api built with Node.js, Express.js, MongoDB",
+        "image": "",
+        "url": "https://github.com/bportfolios/Backend-and-data-modelling"
+      },
       {
         "title": "Tweet me",
         "category": "Twitter Clone built with Django Framework (PostgreSQL, Python)",
